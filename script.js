@@ -1,41 +1,53 @@
 const quizData = [
-    {
-        question: 'Who is the World Champion of Drinking Gin, 1876?',
-        a: 'Me',
-        b: 'You',
-        c: 'No one',
-        d: 'András Varga',
-        correct: 'd'
-    }, {
-        question: 'Who is Bori?',
-        a: 'Hipster Jesus',
-        b: 'Put out a glass full of vodka soda and see who picks it up first',
-        c: 'Bori?',
-        d: 'András Varga',
-        correct: 'b'
-    }, {
-        question: 'Best doctor ever?',
-        a: 'Andor baba',
-        b: 'Doctor Who',
-        c: 'The Green one',
-        d: 'Vodka',
-        correct: 'a'
-    }, {
-        question: 'What fears Cintia the most?',
-        a: 'András Varga',
-        b: 'The Delete Button',
-        c: 'Kitten paws',
-        d: 'Random screeching sounds',
-        correct: 'b'
-    }, {
-        question: 'What instrument Dávid plays?',
-        a: 'Tabletop',
-        b: 'Shoestrings',
-        c: 'Guitar',
-        d: 'Moustache of alien gladiators',
-        correct: 'c'
-    }
-]
+  {
+    question: "Who is the World Champion of Drinking Gin, 1876?",
+    a: "Me",
+    b: "You",
+    c: "No one",
+    d: "András Varga",
+    correct: "d",
+  },
+  {
+    question: "Who is Bori?",
+    a: "Hipster Jesus",
+    b: "Put out a glass full of vodka soda and see who picks it up first",
+    c: "Bori?",
+    d: "András Varga",
+    correct: "b",
+  },
+  {
+    question: "Best doctor ever?",
+    a: "Andor baba",
+    b: "Doctor Who",
+    c: "The Green one",
+    d: "Vodka",
+    correct: "a",
+  },
+  {
+    question: "What fears Cintia the most?",
+    a: "András Varga",
+    b: "The Delete Button",
+    c: "Kitten paws",
+    d: "Random screeching sounds",
+    correct: "b",
+  },
+  {
+    question: "What instrument Dávid plays?",
+    a: "Tabletop",
+    b: "Shoestrings",
+    c: "Guitar",
+    d: "Moustache of alien gladiators",
+    correct: "c",
+  },
+  {
+    question: "What voice Benett is afraid of?",
+    a: "Cat purring",
+    b: "András Varga",
+    c: "Frying chicken",
+    d: "Pityó",
+    correct: "d",
+  },
+];
 
 
 const quiz = document.getElementById("quiz");
