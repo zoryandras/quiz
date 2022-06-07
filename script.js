@@ -17,7 +17,7 @@ const quizData = [
   },
   {
     question: "Best doctor ever?",
-    a: "Andor baba",
+    a: "Andor",
     b: "Doctor Who",
     c: "The Green one",
     d: "Vodka",
