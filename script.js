@@ -1,6 +1,6 @@
 const quizData = [
     {
-        question: 'Who is the most lovable weirdo out there?',
+        question: 'Who is the World Champion of Drinking Gin, 1876?',
         a: 'Me',
         b: 'You',
         c: 'No one',
